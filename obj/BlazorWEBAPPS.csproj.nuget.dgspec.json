@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WebDevelopment\\blazor-web-apps\\BlazorWEBAPPS\\BlazorWEBAPPS.csproj": {}
+    "D:\\WebDevelopment\\blazor-web-apps\\BlazorWEBAPPS.csproj": {}
   },
   "projects": {
-    "D:\\WebDevelopment\\blazor-web-apps\\BlazorWEBAPPS\\BlazorWEBAPPS.csproj": {
+    "D:\\WebDevelopment\\blazor-web-apps\\BlazorWEBAPPS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebDevelopment\\blazor-web-apps\\BlazorWEBAPPS\\BlazorWEBAPPS.csproj",
+        "projectUniqueName": "D:\\WebDevelopment\\blazor-web-apps\\BlazorWEBAPPS.csproj",
         "projectName": "BlazorWEBAPPS",
-        "projectPath": "D:\\WebDevelopment\\blazor-web-apps\\BlazorWEBAPPS\\BlazorWEBAPPS.csproj",
+        "projectPath": "D:\\WebDevelopment\\blazor-web-apps\\BlazorWEBAPPS.csproj",
         "packagesPath": "C:\\Users\\Abdul Latif Munjiat\\.nuget\\packages\\",
-        "outputPath": "D:\\WebDevelopment\\blazor-web-apps\\BlazorWEBAPPS\\obj\\",
+        "outputPath": "D:\\WebDevelopment\\blazor-web-apps\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abdul Latif Munjiat\\AppData\\Roaming\\NuGet\\NuGet.Config"
