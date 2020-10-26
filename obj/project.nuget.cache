@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8/3pcOEuVq+6W14i+H+e01UaNYi9DhCtoxr2vSdC0jN+qFq5CLeqihv9SoM/k3BC9W2WSv6UpeFSUBk0hN/6Qw==",
+  "dgSpecHash": "QUZTK3VjMuIy8p0Kb4sgJqPyJUVz/tjgODwax06CaWOuveWs0151g2biocHV6MPnJObUX7JptXsTs/oqvZEf/w==",
   "success": true,
-  "projectFilePath": "D:\\WebDevelopment\\blazor-web-apps\\..csproj",
+  "projectFilePath": "D:\\WebDevelopment\\blazor-web-apps\\BlazorWEBAPPS\\BlazorWEBAPPS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abdul Latif Munjiat\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\Abdul Latif Munjiat\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",
