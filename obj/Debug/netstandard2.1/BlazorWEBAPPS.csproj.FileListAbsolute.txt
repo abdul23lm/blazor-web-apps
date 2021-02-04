@@ -356,6 +356,6 @@ D:\WebDevelopment\blazor-web-apps\obj\Debug\netstandard2.1\BlazorWEBAPPS.dll
 D:\WebDevelopment\blazor-web-apps\obj\Debug\netstandard2.1\BlazorWEBAPPS.pdb
 D:\WebDevelopment\blazor-web-apps\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Todo.razor.g.cs
 D:\WebDevelopment\blazor-web-apps\obj\Debug\netstandard2.1\Razor\Pages\Todo.razor.g.cs
-D:\WebDevelopment\blazor-web-apps\obj\Debug\netstandard2.1\integrity\KrGAqtPAlKU41IJnGS82RGVZBz5rE1j8_pOKrvuCQmU=.hash
-D:\WebDevelopment\blazor-web-apps\obj\Debug\netstandard2.1\integrity\6Lh5icBLV67gbUZaEu-5VP63Kj5ML6KKGnsqMobaKac=.hash
-D:\WebDevelopment\blazor-web-apps\obj\Debug\netstandard2.1\integrity\zpJZjkfqpm12I-1eJaJ6zJUZry5SWupIae3s7qevUH4=.hash
+D:\WebDevelopment\blazor-web-apps\obj\Debug\netstandard2.1\integrity\4DCBQ4ca_mjF7bmX1sMWqReX--H0_pNtuqxl92jljqU=.hash
+D:\WebDevelopment\blazor-web-apps\obj\Debug\netstandard2.1\integrity\LF7xAk7i8Bd-Yh8UWxhBIPLJyHr98UKdoxr5r0NtQ8A=.hash
+D:\WebDevelopment\blazor-web-apps\obj\Debug\netstandard2.1\integrity\zP2pIxHi-doMb8VJ3Tz1bpP3NJv33F6YWGsd3FuOBcY=.hash
